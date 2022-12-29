@@ -1,3 +1,3 @@
 # ARCH
-# Chertykovtsev 6131
+# Chertykovtsev Pavel 6131
 arch
